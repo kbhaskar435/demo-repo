@@ -2,6 +2,3 @@
 
 
 This is demo of git
-
-
-This is second branch
