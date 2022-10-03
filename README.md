@@ -1,6 +1,6 @@
 # demo-repo
 
 
-This is demo of git1
+is demo of git1
 
 
