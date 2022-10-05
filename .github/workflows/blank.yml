@@ -10,4 +10,12 @@ on:
       reason:
         required: true
         description: 'Why are u running?'
+jobs:
+  name:
+    runs-on: ubuntu-latest
+    steps:
+    - run: echo "Hello World!"
+    
+    
+  
 
