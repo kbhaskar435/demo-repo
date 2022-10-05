@@ -1,0 +1,13 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+on:
+  workflow_dispatch:
+    inputs:
+      username:
+        required: true
+      reason:
+        required: true
+        description: 'Why are u running?'
+
